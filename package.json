@@ -1,0 +1,19 @@
+{
+  "name": "TravisTesting",
+  "version": "0.0.1",
+  "description": "TravisTesting",
+  "author": "Jonathan Tinajero",
+  "private": false,
+  "keywords": [
+    "react"
+  ],
+  "homepage": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  },
+  "devDependencies": {}
+}
